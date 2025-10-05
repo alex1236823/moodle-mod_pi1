@@ -1,0 +1,17 @@
+# IDE/Editor
+.idea/
+.vscode/
+*.iml
+
+# System
+.DS_Store
+Thumbs.db
+
+# Logs / temp
+*.log
+*.cache
+
+# Moodle-Caches (falls mal hier landen)
+cache/
+localcache/
+muc/
